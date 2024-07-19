@@ -1,0 +1,28 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl ModNotGateMaterial0
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl ModNotGateMaterial1
+Ka 1.000000 1.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl ModNotGateMaterial2
+Ka 1.000000 0.600000 0.000000
+Kd 1.000000 0.600000 0.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 20.000000
+Tr 1.000000
